@@ -1,0 +1,7 @@
+com\springboot\controller\HelloController.class
+com\springboot\Service\ATEService.class
+com\springboot\Model\ATEPojo.class
+com\springboot\Test\ClientTestClass.class
+com\springboot\MainApp.class
+com\springboot\Test\ClientTestClass2.class
+com\springboot\Model\DevicePojo.class
